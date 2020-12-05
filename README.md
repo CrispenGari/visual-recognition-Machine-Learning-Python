@@ -27,6 +27,10 @@ $  python -m pip install Pillow
 ## Documentation Reference
 For the reference of the docummentation of ibm visit this link ``https://cloud.ibm.com/docs/visual-recognition?topic=visual-recognition-getting-started-tutorial&programming_language=python``
 
+## Docs references
+* List of AI's [click here](https://cloud.ibm.com/catalog?category=ai#services)
+* Watson Dashboard [click here](https://cloud.ibm.com/developer/watson/dashboard)
+* ibm Login [click here](https://cloud.ibm.com/login)
 ## Why this simple App?
 This application was just build for practising purposes.
 
